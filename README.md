@@ -1,6 +1,6 @@
 # Sistema Biométrico de Reconhecimento Facial com Detecção de Vivacidade
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/diegotluz/face_biometria/blob/main/face_recognation.ipynb])
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegotluz/face_biometria/blob/main/face_recognation.ipynb)
 
 ## 🎯 Objetivo
 Desenvolver um sistema de reconhecimento facial robusto que:
